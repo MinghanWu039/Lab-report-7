@@ -76,7 +76,7 @@ Press `<backspace>` and then enter `2`.
 
 ![12](https://github.com/MinghanWu039/Lab-report-7/blob/1344344f2f36a267163f1c82b3122dba71851eda/LR7-12.png?raw=true)
 
-To save and exit, press `<ctrl><o>` `<enter>` and <ctrl><x>`.
+To save and exit, press `<ctrl><o>` `<enter>` and `<ctrl><x>`.
 
 **Step 8**  
 _Run the tests, demonstrating that they now succeed_
