@@ -25,18 +25,18 @@ Then enter `<ctrl><R>` and enter `ssh`. Bash will show my past command to log in
 Press `Enter` to confirm. Now I'm logged in. Note that I have generated an SSH key and store on both my computer and the server, so I don't need to 
 enter the password.
 
-![4](https://github.com/MinghanWu039/Lab-report-7/blob/1344344f2f36a267163f1c82b3122dba71851eda/LR7-4.png)
+![4](https://github.com/MinghanWu039/Lab-report-7/blob/1344344f2f36a267163f1c82b3122dba71851eda/LR7-4.png?raw=true)
 
 **Step 5**
 _Clone your fork of the repository from your Github account_
 
 Go to the github page of my forked repository `Lab7`. Click the green button `Code`, select `SSH` and copy the link.
 
-![5](https://github.com/MinghanWu039/Lab-report-7/blob/1344344f2f36a267163f1c82b3122dba71851eda/LR7-5.png)
+![5](https://github.com/MinghanWu039/Lab-report-7/blob/1344344f2f36a267163f1c82b3122dba71851eda/LR7-5.png?raw=true)
 
 In the terminal, enter `git clone` and then paste the link.
 
-![6](https://github.com/MinghanWu039/Lab-report-7/blob/1344344f2f36a267163f1c82b3122dba71851eda/LR7-6.png)
+![6](https://github.com/MinghanWu039/Lab-report-7/blob/1344344f2f36a267163f1c82b3122dba71851eda/LR7-6.png?raw=true)
 
 **Step 6**
 _Run the tests, demonstrating that they fail_
